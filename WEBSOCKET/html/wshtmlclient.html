@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var ws = new WebSocket("ws://localhost:1224");
+    ws.onopen = function()
+    {
+        console.log("ws连接开启");
+        ws.send("haha")
+    };
+    ws.onclose = function()
+    {
+        alert("ws连接已关闭...");
+    };
+    ws.onmessage=function (evt) {
+        var received_msg = evt.data;
+        console.log(received_msg);
+    }
+</script>
+</body>
+</html>

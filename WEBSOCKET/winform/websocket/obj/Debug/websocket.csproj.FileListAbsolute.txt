@@ -1,0 +1,10 @@
+E:\vsproject\websocket\websocket\bin\Debug\websocket.exe.config
+E:\vsproject\websocket\websocket\bin\Debug\websocket.exe
+E:\vsproject\websocket\websocket\bin\Debug\websocket.pdb
+E:\vsproject\websocket\websocket\bin\Debug\Fleck.dll
+E:\vsproject\websocket\websocket\obj\Debug\websocket.csprojResolveAssemblyReference.cache
+E:\vsproject\websocket\websocket\obj\Debug\websocket.Properties.Resources.resources
+E:\vsproject\websocket\websocket\obj\Debug\websocket.csproj.GenerateResource.Cache
+E:\vsproject\websocket\websocket\obj\Debug\websocket.exe
+E:\vsproject\websocket\websocket\obj\Debug\websocket.pdb
+E:\vsproject\websocket\websocket\obj\Debug\websocket.websocket.resources

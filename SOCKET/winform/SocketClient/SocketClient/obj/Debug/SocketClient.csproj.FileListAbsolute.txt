@@ -1,0 +1,11 @@
+E:\vsproject\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+E:\vsproject\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+E:\vsproject\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\vsproject\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+E:\vsproject\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+E:\vsproject\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+E:\vsproject\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\vsproject\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\vsproject\Socket\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+E:\vsproject\Socket\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\vsproject\Socket\SocketClient\SocketClient\obj\Debug\SocketClient.pdb

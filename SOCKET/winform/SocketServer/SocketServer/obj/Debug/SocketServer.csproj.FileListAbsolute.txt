@@ -1,0 +1,9 @@
+E:\vsproject\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+E:\vsproject\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+E:\vsproject\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+E:\vsproject\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\vsproject\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+E:\vsproject\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+E:\vsproject\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+E:\vsproject\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+E:\vsproject\SocketServer\SocketServer\obj\Debug\SocketServer.SocketServer.resources
