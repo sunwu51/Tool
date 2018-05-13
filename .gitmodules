@@ -1,0 +1,3 @@
+[submodule "HTTP/go/github.com/gin-gonic/gin"]
+	path = HTTP/go/github.com/gin-gonic/gin
+	url = https://github.com/gin-gonic/gin
